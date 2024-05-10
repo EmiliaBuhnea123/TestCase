@@ -1,10 +1,10 @@
 # Cazul de Testare: Autentificare Admin
 
-| Descrierea testului                                   | Descrierea cerințelor      | Pas | Descrierea pasului                                                                     | Rezultatul așteptat                            | Status |
-|-------------------------------------------------------|---------------------------|-----|----------------------------------------------------------------------------------------|-------------------------------------------------|--------|
-| Verifică dacă un admin se poate autentifica în sistem | Adminul trebuie să se poată autentifica cu succes. | 1   | Accesează pagina de autentificare a aplicației. Apare formularul pentru autentificare. | Se deschide pagina de autentificare a aplicației. | N/A    |
-|                                                       |                           | 2   | Introduce datele valide de autentificare pentru admin.                                 | Câmpurile sunt completate cu succes.            | N/A    |
-|                                                       |                           | 3   | Face click pe butonul de autentificare.                                                | Adminul este redirecționat către tabloul de bord al adminului. | N/A    |
+| Descrierea testului                                             | Descrierea cerințelor      | Pas | Descrierea pasului                                                                     | Rezultatul așteptat                            | Status |
+|-----------------------------------------------------------------|---------------------------|-----|----------------------------------------------------------------------------------------|-------------------------------------------------|--------|
+| Verifică dacă un admin se poate autentifica în sistem cu succes | Adminul trebuie să se poată autentifica cu succes. | 1   | Accesează pagina de autentificare a aplicației. Apare formularul pentru autentificare. | Se deschide pagina de autentificare a aplicației. | N/A    |
+|                                                                 |                           | 2   | Introduce datele valide de autentificare pentru admin.                                 | Câmpurile sunt completate cu succes.            | N/A    |
+|                                                                 |                           | 3   | Face click pe butonul de autentificare.                                                | Adminul este redirecționat către tabloul de bord al adminului. | N/A    |
 
 
 ## Cazul de Testare: Administrare Profil Admin
